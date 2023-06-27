@@ -42,7 +42,7 @@ body {
 
     width: 105em;
     height: auto;
-    margin: auto;
+    margin: 10em auto;
     // background-color: #724242;
     border-radius: 1em;
 
@@ -303,7 +303,7 @@ body {
         grid-template-rows: 25em 25em 25em 25em;
 
         width: 80em;
-        margin: 5em auto;
+        
 
         &__item:hover {
             transform: scale(1.02);

@@ -34,7 +34,7 @@ body {
   gap: 3em;
   width: 105em;
   height: auto;
-  margin: auto;
+  margin: 10em auto;
   border-radius: 1em;
 }
 .main__item {
@@ -248,7 +248,6 @@ body {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 25em 25em 25em 25em;
     width: 80em;
-    margin: 5em auto;
   }
   .main__item:hover {
     transform: scale(1.02);
